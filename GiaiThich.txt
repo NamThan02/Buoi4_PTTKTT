@@ -1,0 +1,13 @@
+Danh sách vật phẩm:
+
+- (60, 10) với tỷ lệ 6.0
+- (100, 20) với tỷ lệ 5.0
+- (120, 30) với tỷ lệ 4.0
+
+Sắp xếp theo tỷ lệ: Vật phẩm được sắp xếp từ tỷ lệ cao nhất xuống thấp nhất.
+
+Tính toán:
+
+Thêm vật phẩm đầu tiên (60, 10) vào ba lô: tổng trọng lượng = 10, tổng giá trị = 60.
+Thêm vật phẩm thứ hai (100, 20) vào ba lô: tổng trọng lượng = 30, tổng giá trị = 160.
+Không đủ không gian cho vật phẩm thứ ba (120, 30), chỉ thêm phần còn lại: trọng lượng còn lại = 20, giá trị phần thêm = 120 * (20 / 30) = 80. Tổng giá trị cuối cùng = 160 + 80 = 240.
